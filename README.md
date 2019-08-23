@@ -1,1 +1,0 @@
-# Ccompetitive-programming-resourse-Link
