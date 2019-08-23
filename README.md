@@ -2,8 +2,7 @@
 
    
 1. E-Maxx Algorithms in English
-
-        CP-Algorithms : https://cp-algorithms.com/
+                         CP-Algorithms : https://cp-algorithms.com/
 
 /* Codeforses Blog Link*/
 
