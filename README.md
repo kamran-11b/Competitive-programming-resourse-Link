@@ -1,11 +1,20 @@
 # Competitive-programming-resourse-link
 
-
-1. Codeforces Awesome Competitive Programming Blog Link:
-
-        https://codeforces.com/blog/entry/23054
    
-2. E-Maxx Algorithms in English
+1. E-Maxx Algorithms in English
 
-       i) CP-Algorithms : https://cp-algorithms.com/
+        CP-Algorithms : https://cp-algorithms.com/
 
+/* Codeforses Blog Link*/
+
+2. Codeforces Awesome Competitive Programming:
+
+        Link: https://codeforces.com/blog/entry/23054
+       
+3. Good Blog Post Resources about Algorithm and Data Structures — Codeforces
+
+        Link: https://codeforces.com/blog/entry/13529
+
+4. All of the good tutorials found on codeforces
+        
+        Link: https://codeforces.com/blog/entry/57282
