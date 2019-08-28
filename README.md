@@ -8,6 +8,8 @@ Tutorial Websites:
 
 3. PEGWiki: http://wcipeg.com/wiki/Special:AllPages
 
+4. C++ Notes:  http://www.fredosaurus.com/notes-cpp/
+
 Codeforses Blog:
 
 3. Codeforces Awesome Competitive Programming: https://codeforces.com/blog/entry/23054
