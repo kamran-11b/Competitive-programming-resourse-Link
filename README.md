@@ -10,6 +10,8 @@ Tutorial Websites:
 
 4. C++ Notes:  http://www.fredosaurus.com/notes-cpp/
 
+5. Problem Solving in Mathematics: http://jwilson.coe.uga.edu/EMT725/EMT725.html
+
 Codeforses Blog:
 
 1. Codeforces Awesome Competitive Programming: https://codeforces.com/blog/entry/23054
@@ -29,3 +31,6 @@ Codechef:
 3. Data Structures and Algorithms: https://discuss.codechef.com/t/data-structures-and-algorithms/6599
 
 
+Bangla:
+
+1. শাফায়েতের ব্লগ:  http://www.shafaetsplanet.com/
