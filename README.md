@@ -36,3 +36,5 @@ Bangla:
 1. শাফায়েতের ব্লগ:  http://www.shafaetsplanet.com/
 
 2. বাংলায় প্রোগ্রামিং রিসোর্স : https://github.com/me-shaon/bangla-programming-resources
+
+3. Tanvir's Blog: C++ STL https://tanvir002700.wordpress.com/2016/04/15/c-stl-tricks1/
