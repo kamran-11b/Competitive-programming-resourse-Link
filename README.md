@@ -35,4 +35,4 @@ Bangla:
 
 1. শাফায়েতের ব্লগ:  http://www.shafaetsplanet.com/
 
-2. https://github.com/me-shaon/bangla-programming-resources
+2. বাংলায় প্রোগ্রামিং রিসোর্স : https://github.com/me-shaon/bangla-programming-resources
