@@ -34,3 +34,5 @@ Codechef:
 Bangla:
 
 1. শাফায়েতের ব্লগ:  http://www.shafaetsplanet.com/
+
+2. https://github.com/me-shaon/bangla-programming-resources
