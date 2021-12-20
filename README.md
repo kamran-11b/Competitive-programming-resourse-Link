@@ -15,12 +15,14 @@ Tutorial Websites:
 Codeforses Blog:
 
 1. Codeforces Awesome Competitive Programming: https://codeforces.com/blog/entry/23054
+
+2. The Ultimate Topic List (with Resources, Problems and Templates): https://codeforces.com/blog/entry/95106
        
-2. Good Blog Post Resources about Algorithm and Data Structures: https://codeforces.com/blog/entry/13529
+3. Good Blog Post Resources about Algorithm and Data Structures: https://codeforces.com/blog/entry/13529
 
-3. All of the good tutorials found on codeforces: https://codeforces.com/blog/entry/57282
+4. All of the good tutorials found on codeforces: https://codeforces.com/blog/entry/57282
 
-4. Programming Camp Syllabus: https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit
+5. Programming Camp Syllabus: https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit
 
 Codechef:
 
